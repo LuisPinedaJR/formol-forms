@@ -6,10 +6,15 @@ import SEO from "../components/seo"
 
 const SecondPage = () => (
   <Layout>
-    <SEO title="Page two" />
-    <h1>Hi from the second page</h1>
-    <p>Welcome to page 2</p>
-    <Link to="/">Go back to the homepage</Link>
+    <SEO title="Why RSVP?" />
+    <h1>Why RSVP? 🍼</h1>
+    <p>
+      The party planner needs to know how many to expect in order to make food,
+      find a big enough location, invitation orders, etc. The reason for address
+      requirement is to mail you a formal invitation.
+    </p>
+
+    <Link to="/">Click to RSVP</Link>
   </Layout>
 )
 
