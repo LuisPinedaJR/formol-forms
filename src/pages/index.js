@@ -1,5 +1,5 @@
 import React from "react"
-// import { Link } from "gatsby"
+import { Link } from "gatsby"
 // import { css } from "@emotion/core"
 import Layout from "../components/layout"
 // import Image from "../components/image"
@@ -25,6 +25,7 @@ const IndexPage = () => (
       <Image />
     </div> */}
     <SignUpForm />
+    <Link to="/page-3">Page 3 from</Link>
     <h3>Thank You for the RSVP🍼</h3>
     {/* <Link to="/page-2/">Go to page 2</Link> */}
   </Layout>

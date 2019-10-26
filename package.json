@@ -27,6 +27,7 @@
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-helmet": "^5.2.1",
+    "react-hook-form": "^3.23.18",
     "react-s-alert": "^1.4.1",
     "react-typography": "^0.16.19",
     "typography": "^0.16.19"
